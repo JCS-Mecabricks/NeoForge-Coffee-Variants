@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:cocoa_beans",
+    "coffeevariants:coffee_cup"
+  ],
+  "result": {
+    "count": 1,
+    "id": "coffeevariants:coffee_item"
+  }
+}

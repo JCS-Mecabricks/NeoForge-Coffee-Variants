@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": "coffeevariants:coffee_cup",
+    "O": "#minecraft:planks"
+  },
+  "pattern": [
+    "OOO",
+    "OCO",
+    "OOO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "coffeevariants:coffee_station"
+  }
+}

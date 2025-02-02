@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:cookie",
+    "coffeevariants:coffee_item"
+  ],
+  "result": {
+    "count": 1,
+    "id": "coffeevariants:mocha"
+  }
+}

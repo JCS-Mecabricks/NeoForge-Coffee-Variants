@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "coffeevariants:block/coffee_station" }
+  }
+}
